@@ -1,0 +1,15 @@
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\bin\Debug\net6.0\Question1.exe
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\bin\Debug\net6.0\Question1.deps.json
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\bin\Debug\net6.0\Question1.runtimeconfig.json
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\bin\Debug\net6.0\Question1.dll
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\bin\Debug\net6.0\Question1.pdb
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.csproj.AssemblyReference.cache
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.AssemblyInfoInputs.cache
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.AssemblyInfo.cs
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.csproj.CoreCompileInputs.cache
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.dll
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\refint\Question1.dll
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.pdb
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\Question1.genruntimeconfig.cache
+C:\Users\merin.mathew\source\repos\Assessment\Assessment\obj\Debug\net6.0\ref\Question1.dll
